@@ -1,1 +1,1 @@
-# store_api
+# store-api
